@@ -3,7 +3,7 @@ body{
 
 }
 header{
-  background-image: url('../images/flywheel.jpg');
+  background-image: url('flywheel.jpg');
   background-repeat: no-repeat;
   background-size: 120%;
   background color: #b3b3b3; 
